@@ -1,0 +1,7 @@
+{
+  "name": "Akash Proxy Pro",
+  "description": "Native Android VPN Proxy Application with VpnService, tun2socks whole-device routing, quick paste parser, and live connection diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
